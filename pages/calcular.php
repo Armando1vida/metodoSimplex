@@ -1,12 +1,10 @@
-<?php
-//var_dump($_POST);
-//die();
+<?php //
+//echo 'hola';
 $matriz_Resultado = maximizar($_POST);
 //echo imprimir_resultados($matriz_Resultado);
 //echo valores_respuesta($matriz_Resultado);
 $r = valores_respuesta($matriz_Resultado);
 echo mostrar_resultado($r);
-
 //echo imprimir($matriz_Resultado);
 //imprimir($matriz_Resultado);
 //var_dump($matriz_Resultado);
@@ -14,7 +12,6 @@ echo mostrar_resultado($r);
 
 function maximizar($POST) {
     $matriz = preparar($POST);
-    
 //    imprimir
     echo '<br><br>';
     $variable_desicion = $POST['num_variable_desicion'];
