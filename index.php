@@ -4,10 +4,6 @@
             <meta charset="UTF-8">
             <title>Método Simplex</title>
             <link rel="stylesheet" href="css/bootstrap.min.css">
-            <script type="text/javascript" src="js/bootstrap.min.js" ></script>
-            <script type="text/javascript" src="js/jquery-1.10.2.js" ></script>
-            <script type="text/javascript">
-            </script>
         </head>
         <body>
             <div class="container">
@@ -59,6 +55,8 @@
                     </div>
                 </div>
             </div>
+            <script type="text/javascript" src="js/bootstrap.min.js" ></script>
+            <script type="text/javascript" src="js/jquery-1.10.2.js" ></script>
 
         </body>
     </html>
