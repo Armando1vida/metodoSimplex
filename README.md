@@ -1,0 +1,4 @@
+MetodoSimplex
+=============
+
+MetodoSimplex(Maximización)
